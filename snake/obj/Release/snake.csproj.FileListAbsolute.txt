@@ -1,0 +1,9 @@
+G:\Computer Science\snake\snake\bin\Release\snake.exe.config
+G:\Computer Science\snake\snake\bin\Release\snake.exe
+G:\Computer Science\snake\snake\bin\Release\snake.pdb
+G:\Computer Science\snake\snake\obj\Release\snake.Form1.resources
+G:\Computer Science\snake\snake\obj\Release\snake.Properties.Resources.resources
+G:\Computer Science\snake\snake\obj\Release\snake.csproj.GenerateResource.Cache
+G:\Computer Science\snake\snake\obj\Release\snake.exe
+G:\Computer Science\snake\snake\obj\Release\snake.pdb
+G:\Computer Science\snake\snake\obj\Release\snake.csprojResolveAssemblyReference.cache
